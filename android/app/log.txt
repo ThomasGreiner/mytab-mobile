@@ -1,0 +1,4 @@
+09/07/2011	1.0		initial release
+10/07/2011	1.0.1	minor change
+12/08/2011	1.0.2	bug fixed: onResume crashes app or shows blank screen
+17/08/2011	1.0.3	bug fixed: app crashes on start for some users

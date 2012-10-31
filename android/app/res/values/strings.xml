@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myTab mobile</string>
+    <string name="loading">loading...</string>
+    <string name="options">options</string>
+    <!-- feeds -->
+    <string name="select_personal_yt_feeds">select personal YouTube feeds</string>
+    <string name="select_yt_feeds">select YouTube feeds</string>
+    <string name="favorites">Favorites</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="trending">Trending</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="most_viewed">Most Viewed</string>
+    <!-- info -->
+    <string name="info">info</string>
+    <string name="created_by">created by Thomas Greiner</string>
+    <string name="follow_me">follow me</string>
+    <string name="open_source">myTab mobile is open source</string>
+    <string name="visit_gcode">visit it on Google Code</string>
+</resources>

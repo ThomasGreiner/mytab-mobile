@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="mytab" type="id"/>
+	<item name="appContent" type="id"/>
+    <item name="options_account" type="id"/>
+    <item name="options_feeds" type="id"/>
+    <item name="options_info" type="id"/>
+    <item name="options_info_twitter" type="id"/>
+    <item name="options_info_gplus" type="id"/>
+    <item name="options_info_gcode" type="id"/>
+    <item name="options_info_homepage" type="id"/>
+</resources>

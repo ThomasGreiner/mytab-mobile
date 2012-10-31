@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@id/mytab"
+		android:icon="@drawable/icon_small"/>
+	<item
+		android:id="@id/options_account"
+		android:icon="@android:drawable/ic_lock_lock"
+		android:title="account"/>
+	<item
+		android:id="@id/options_feeds"
+		android:icon="@android:drawable/ic_menu_edit"
+		android:title="feeds"/>
+	<item
+		android:id="@id/options_info"
+		android:icon="@android:drawable/ic_menu_info_details"
+		android:title="info"/>
+</menu>
